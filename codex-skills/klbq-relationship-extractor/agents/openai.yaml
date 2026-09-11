@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡拉彼丘关系提取"
+  short_description: "综合全部角色资料提取有原文证据的初始关系和双向关系总表"
+  default_prompt: "使用 $klbq-relationship-extractor 提取有证据的人物、组织和群体关系。"

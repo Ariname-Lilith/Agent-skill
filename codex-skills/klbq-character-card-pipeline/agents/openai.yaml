@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡拉彼丘角色卡流水线"
+  short_description: "逐页审阅全部资料，完成证据建模、角色卡编译和严格语义验收"
+  default_prompt: "使用 $klbq-character-card-pipeline 从 BWIKI 全来源综合构建并严格验收可角色扮演的角色卡。"

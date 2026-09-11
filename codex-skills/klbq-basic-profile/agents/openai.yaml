@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡拉彼丘基础档案"
+  short_description: "从卡拉彼丘 BWIKI 准确提取并核实角色基础身份资料"
+  default_prompt: "使用 $klbq-basic-profile 提取指定角色的基础档案。"

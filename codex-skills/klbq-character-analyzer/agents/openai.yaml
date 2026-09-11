@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡拉彼丘人物综合分析"
+  short_description: "跨全部角色资料建立有原文证据的经历总结与可执行人格模型"
+  default_prompt: "使用 $klbq-character-analyzer 综合全部已发现资料，归纳角色经历、动机与行为逻辑。"

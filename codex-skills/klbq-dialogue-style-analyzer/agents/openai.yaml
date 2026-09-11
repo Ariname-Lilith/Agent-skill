@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡拉彼丘真实台词分析"
+  short_description: "跨多种剧情和情绪场景核验语言风格、称谓证据及代表台词"
+  default_prompt: "使用 $klbq-dialogue-style-analyzer 从全部语音与剧情中核验角色语言和称谓。"

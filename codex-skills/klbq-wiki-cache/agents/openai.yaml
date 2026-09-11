@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡拉彼丘 Wiki 缓存"
+  short_description: "按稳定请求指纹缓存抓取结果并检查快照是否过期"
+  default_prompt: "使用 $klbq-wiki-cache 管理角色资料抓取缓存。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡拉彼丘关联档案"
+  short_description: "发现并提取角色剧情、誓约、语音、小传及其他关联资料"
+  default_prompt: "使用 $klbq-related-profile 汇总指定角色的关联资料。"

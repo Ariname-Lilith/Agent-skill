@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡拉彼丘立绘外貌分析"
+  short_description: "实际打开默认角色立绘并验证七项可见外貌观察与视觉置信度"
+  default_prompt: "使用 $klbq-appearance-analyzer 打开立绘并分析指定角色外貌。"

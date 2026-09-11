@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡拉彼丘来源归一化"
+  short_description: "统一 Wiki 字段并保留重复、冲突与字段级来源证据"
+  default_prompt: "使用 $klbq-source-normalizer 归一化角色基础资料。"

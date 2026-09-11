@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡拉彼丘角色卡编译"
+  short_description: "把已通过语义验收的综合人物模型编译为五部分角色扮演卡"
+  default_prompt: "使用 $klbq-character-card-compiler 编译经过语义验收的角色卡。"

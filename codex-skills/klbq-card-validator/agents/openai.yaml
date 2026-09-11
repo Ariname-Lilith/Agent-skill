@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡拉彼丘角色卡严格验收"
+  short_description: "检查综合质量、证据落点、语义噪声、台词关系和跨角色相似度"
+  default_prompt: "使用 $klbq-card-validator 对角色卡执行完整语义质量验收。"

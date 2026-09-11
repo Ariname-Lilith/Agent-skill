@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡拉彼丘立绘检索"
+  short_description: "检索角色主页面和画廊图片并排序高质量立绘候选图"
+  default_prompt: "使用 $klbq-portrait-finder 查找指定角色的立绘。"
